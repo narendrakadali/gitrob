@@ -85,7 +85,7 @@ A [precompiled version is available](https://github.com/michenriksen/gitrob/rele
 
 Make sure you have a correctly configured **Go >= 1.11** environment and that `$GOPATH/bin` is in your `$PATH`
 
-    $ go get github.com/michenriksen/gitrob
+    $ go get github.com/mattyjones/gitrob
 
 This command will download gitrob, install its dependencies, compile it and move the `gitrob` executable to `$GOPATH/bin`.
 
